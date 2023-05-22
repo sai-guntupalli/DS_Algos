@@ -1,0 +1,6 @@
+DFS:
+
+    Pre Order: root, left, right
+    In Order : left, root, right
+    Post Order: left, right, root
+    
